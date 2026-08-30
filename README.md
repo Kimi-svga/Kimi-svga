@@ -1,23 +1,18 @@
-
 <p align="center">
-  <img src="assets/deepmind-logo.png" alt="Google DeepMind" width="240"/>
+  <img src="assets/deepmind-logo.png" alt="Google DeepMind" width="220"/>
 </p>
 
 <h1 align="center">👋 Kimi</h1>
 
 <p align="center">
   <b>15 y.o. · coding since 10</b><br>
-  🇩🇪 Germany · 🎯 <b>Google DeepMind</b>
+  🇷🇺 Russia · 🎯 <b>Google DeepMind</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Target-Google%20DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=kimi-svga&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kimi-svga&color=blue&style=flat-square" />
 </p>
-
-<br>
-
-> *"I build things that work."*
 
 ---
 
@@ -58,7 +53,7 @@
 
 | | |
 |---|---|
-| **Organization** | [RedRaceTeam](https://github.com/RedRaceTeam) |
+| **Team** | [P4/9 Team](https://github.com/P4-9-Team) |
 | **Telegram** | [P4Devl](https://t.me/P4Devl) |
 
 ---
@@ -68,6 +63,7 @@
 <p align="center">
   <a href="https://t.me/P4Devl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/kimi-svga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/P4-9-Team"><img src="https://img.shields.io/badge/P4%2F9%20Team-FF4500?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -75,4 +71,4 @@
 <p align="center">
   <i>"Code is the language I use to speak with the future."</i><br>
   <b>— Kimi</b>
-</p> 
+</p>
