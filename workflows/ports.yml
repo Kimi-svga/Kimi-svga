@@ -1,0 +1,19 @@
+name: Latest Telegram Posts 📢
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # каждые 6 часов (не спамь, чтобы не забанили)
+  workflow_dispatch:       # можно запустить вручную
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://t.me/s/P4Devl?rss"
+          max_post_count: 5
+          template: "$title  [🔗]($link)"
+          commit_message: "chore: обновлены последние посты из Telegram"
